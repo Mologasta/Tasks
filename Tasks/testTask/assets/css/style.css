@@ -1,0 +1,54 @@
+.table th, .table td {
+    border-top: none !important;
+}
+
+.btn-user {
+    border-radius: 34px;
+    background-color: rgb(253, 214, 57);
+    width: 200px;
+}
+.bubble {
+    font-size: small;
+    margin: 10px 0 10px 0;
+    padding: 5px;
+    background: rgb(242, 251, 255);
+    border: solid 1px rgb(210, 210, 210);
+}
+
+.comment {
+    margin-top: 5px;
+}
+.first-item {
+    background-color: rgb(177,225,155);
+    width: 90%;
+    -webkit-border-radius: 1px;
+    -moz-border-radius: 1px;
+    border-radius: 1px;
+    padding-left: 4px;
+
+}
+.second-item {
+    background-color: rgb(178, 226, 248);
+    width: 24%;
+    -webkit-border-radius: 1px;
+    -moz-border-radius: 1px;
+    border-radius: 1px;
+    padding-left: 4px;
+    white-space: nowrap;
+    white-space: -moz-pre-wrap !important;
+}
+.third-item {
+    background-color: rgb(178,226,248);
+    width: 16%;
+    -webkit-border-radius: 1px;
+    -moz-border-radius: 1px;
+    border-radius: 1px;
+    padding-left: 4px;
+
+}
+.msg {
+    background-color: rgb(255, 251, 200);
+    padding: 3px;
+    font-size: 75%;
+    height:45px;
+}
